@@ -1,0 +1,40 @@
+h2 {
+    font-family: Verdana;
+}
+
+div {
+    border: none;
+    box-sizing: border-box;
+    background-color:#F5B532 ;
+    display: block;
+    height: 100px;
+    padding: 10px;
+    margin: 5px;
+ }
+ 
+ .color-change{
+    background-color: #2B2B2B ;
+    color: white;
+ }
+ 
+ #display2 {
+    font-size: 25px;    
+    height: 150px;
+    width: 400px;
+    display: block;
+    margin: 10px;
+ }
+ 
+ #display3 {
+    display: inline-block;
+    height: 150px;
+    width: 200px;
+    margin: 10px;
+
+ }
+ 
+ #display4 {
+     display: inline-block;
+     height: 45px;
+     padding: 2px;
+ }
